@@ -1,0 +1,4 @@
+pandas==2.3.2
+Pyomo==6.8.2
+streamlit==1.37.1
+streamlit==1.44.1
